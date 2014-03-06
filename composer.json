@@ -1,0 +1,10 @@
+{
+	"name":"eelkevdbos/diffiehellman",
+	"description":"Pear package PHP5 implementation of the Diffie Hellman Key Exchange Cryptographic protocol.",
+	"require": {
+		"php":">=5.2.0"
+	},
+	"autoload": {
+		"classmap":["Crypt/"]
+	}
+}
